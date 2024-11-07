@@ -15,7 +15,7 @@ Welcome to the data analysis project repository! This project focuses on analyzi
 ---
 
 ## Overview
-This project aims to [describe the main objective, e.g., identify patterns, make predictions, optimize processes]. The key steps involved are:
+This project aims to I have Provided all projects descriptions. The key steps involved are:
 1. Data Cleaning
 2. Exploratory Data Analysis (EDA)
 3. Statistical Analysis / Hypothesis Testing
@@ -23,7 +23,7 @@ This project aims to [describe the main objective, e.g., identify patterns, make
 5. Conclusions
 
 ## Dataset
-- **Source**: [If applicable, provide the dataset source]
+- **Source**: I have Provided The link of the Dataset in the above pdf file.
 - **Description**: The dataset contains [brief description of the data, e.g., 1000 records of customer purchases, 10 columns including date, product, sales amount, etc.].
 - **Features**:
   - `feature1`: description
@@ -31,9 +31,5 @@ This project aims to [describe the main objective, e.g., identify patterns, make
   - [Continue listing features as relevant]
 
 ## Project Structure
-```plaintext
-├── data/               # Raw and processed data files
-├── notebooks/          # Jupyter notebooks for EDA, analysis, and visualizations
-├── src/                # Python scripts for data cleaning, processing, and analysis
+├── PDF/          # Jupyter notebooks for EDA, analysis, and visualizations
 ├── README.md           # Project documentation
-└── requirements.txt    # Required packages for the project

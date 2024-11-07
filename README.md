@@ -1,4 +1,4 @@
-# Data Analysis Project
+# Bird Strikes Data Analysis Project
 
 Welcome to the data analysis project repository! This project focuses on analyzing [describe the dataset briefly, e.g., customer behavior, sales trends, etc.]. The analysis provides insights into [key insights/goals of the project].
 

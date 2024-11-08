@@ -50,9 +50,6 @@ We know that in this technical and more advance world transportations play key r
 
 
 
-  4. [Acknowledgments](#acknowledgments)
-
-During overall training how to load dataset ,prepare dataset,tokenized dataset and how to train the model and after how to evaluate the model.we test and validate model on both test and validations dataset we can run multiple epochs to decreased the validation loss.
 
 ### Data Files
 - **Bird Strikes Data Visualization.pdf**: contains report and visualization of data.

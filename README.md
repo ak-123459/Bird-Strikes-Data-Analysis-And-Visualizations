@@ -53,7 +53,8 @@ We know that in this technical and more advance world transportations play key r
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab"/>
   </a>
 
-<a href="https://ibb.co/b5BmvV9"><img src="https://i.ibb.co/YBkQdSs/jupyter-notebook.webp" alt="jupyter-notebook" border="0" width="30"></a>
+
+<a > <img src="https://i.ibb.co/YBkQdSs/jupyter-notebook.webp" alt="jupyter-notebook" border="0" width="30"> </a>
 
 </div>
 

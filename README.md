@@ -28,23 +28,14 @@ This repository contains code to fine-tune the `bert-base-cased` model for Named
 
 ## **Project Overview**
 
-This project fine-tunes `bert-base-cased` for Named Entity Recognition (NER) on university data to identify specific entities in academic text. This model is useful for processing university documents and extracting structured information.
+We know that in this technical and more advance world transportations play key role in the world.In the aeroplane services sometimes some delay can lead thousands od dollar loss and also other accidental events.so in this case I have analyse the data of USA country  to understand the key factor and areas where most strikes occurs and find the patttern to for more better understanding.we  use for  the visualization tools like plotly for more intractive visual understanding of data.All visuals and report is presented on the **Bird Strikes Data Visualization.pdf** file in the above section.and all python code of that visualization on the notebook file **BirdStrikeDataAnalysis.ipynb**.
 
-###  <a href="https://imgbb.com/"><img src="https://i.ibb.co/D9vKsxH/dataset.png" alt="dataset" border="0"  width="50"></a> Dataset
+###  <a href="https://imgbb.com/"><img src="https://i.ibb.co/D9vKsxH/dataset.png" alt="dataset" border="0"  width="50"></a> 
+ 
+🔗 Download Dataset- [Bird Strikes data]([https://link-to-your-dataset.com](https://docs.google.com/spreadsheets/d/1PF1PQ4-qg4ySrtyOXiF6SFGX7P0Qfl_r/edit?usp=sharing&ouid=108302795397133931709&rtpof=true&sd=true)) 
 
-The dataset should contain labeled examples with tokens, labels, and annotations for entities relevant to university text. The labeling follows the BIO format (e.g., `B-BRANCH`, `I-BRANCH`, `O`).
 
-**Example Format**:
-```plaintext
-Token    Label
-Computer B-BRANCH
-Science  I-BRANCH
-is       O
-a        O
-subject  O
-```
 
-<br></br>
 
 
 3. [Requirements](#requirements)

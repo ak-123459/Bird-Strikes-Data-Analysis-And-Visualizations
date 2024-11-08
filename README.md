@@ -69,7 +69,7 @@ We know that in this technical and more advance world transportations play key r
 
  <br> </br>
 
-**Note- Please first download the dataset form above dataset link and then specify the path of dataset on the notebook.**
+**Note- Please first download the dataset from above [Dataset](#dataset) link and then specify the path of dataset on the notebook.**
 
 
 

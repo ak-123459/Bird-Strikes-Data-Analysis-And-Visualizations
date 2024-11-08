@@ -12,11 +12,15 @@ Welcome to the data analysis project repository! This project focuses on analyzi
 In above Bird Strikes Visualization.pdf file I have Specified all report and insights after the overall data analysis project.
 
 
+<br> </br>
+
 
 ## **Table of Contents**
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
 3. [Requirements](#requirements)
+
+<br> </br>
 
 ## **Project Overview**
 
@@ -33,6 +37,9 @@ We know that in this technical and more advance world transportations play key r
 <br> </br>
 
 3. [Requirements](#requirements)
+
+
+<br> </br>
 
 
 <div id="badges" align="start">

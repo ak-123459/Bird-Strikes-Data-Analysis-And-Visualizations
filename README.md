@@ -14,9 +14,9 @@ In above Bird Strikes Visualization.pdf file I have Specified all report and ins
 
 
 ## **Table of Contents**
-1. [Project Overview](#project-overview)
-2. [Dataset](#dataset)
-3. [Requirements](#requirements)
+1. [Project Overview](project-overview)
+2. [Dataset](dataset)
+3. [Requirements](requirements)
 
 ## **Project Overview**
 

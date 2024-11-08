@@ -1,7 +1,8 @@
 
 <div align="center">
 <a href="https://ibb.co/bPHp8kW"><img src="https://i.ibb.co/Y3DvqxR/Screenshot-2024-11-08-174914.png" alt="Screenshot-2024-11-08-174914" border="0"></a>
-  ##  Bird-Strikes-Data Analysis And Visualizations
+
+  ## Bird-Strikes-Data Analysis And Visualizations
 </div> 
 
 <br></br>

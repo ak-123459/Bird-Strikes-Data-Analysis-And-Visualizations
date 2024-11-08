@@ -54,7 +54,7 @@ We know that in this technical and more advance world transportations play key r
   </a>
 
 
-<a > <img src="https://i.ibb.co/YBkQdSs/jupyter-notebook.webp" alt="jupyter-notebook" border="0" width="30"/> </a>
+<a > <img src="https://i.ibb.co/YBkQdSs/jupyter-notebook.webp" alt="jupyter-notebook" border="0" width="50"/> </a>
 
 </div>
 

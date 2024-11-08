@@ -14,9 +14,9 @@ In above Bird Strikes Visualization.pdf file I have Specified all report and ins
 
 
 ## **Table of Contents**
-1. [Project Overview](project-overview)
-2. [Dataset](dataset)
-3. [Requirements](requirements)
+1. [Project Overview](#project-overview)
+2. [Dataset](#dataset)
+3. [Requirements](#requirements)
 
 ## **Project Overview**
 
@@ -24,7 +24,7 @@ We know that in this technical and more advance world transportations play key r
 
 ###  <a href="https://imgbb.com/"><img src="https://i.ibb.co/D9vKsxH/dataset.png" alt="dataset" border="0"  width="50"></a> 
 
-**Dataset**
+## **Dataset**
  
 🔗 Download Dataset- [Bird Strikes data](https://docs.google.com/spreadsheets/d/1PF1PQ4-qg4ySrtyOXiF6SFGX7P0Qfl_r/edit?usp=sharing&ouid=108302795397133931709&rtpof=true&sd=true)
 
